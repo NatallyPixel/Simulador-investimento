@@ -3,7 +3,7 @@
 
 Um simulador em Excel criado para auxiliar no planejamento financeiro pessoal com foco em investimentos mensais em Fundos Imobiliários (FIIs). A ferramenta permite calcular o valor ideal de aporte, visualizar rendimentos futuros, e ajustar estratégias conforme o perfil do investidor, como:
 
-📥 **[Clique aqui para baixar o simulador Excel](simulador_investimento.xlsx)**
+📥 **[Clique aqui para baixar o simulador Excel](Simulador_Investimento.xlsx)**
 
 - 💰 Alocação percentual por ativo
 - ⏱️ Simulação temporal (2-30 anos)
